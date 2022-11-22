@@ -1,5 +1,3 @@
-# DLsite
-## www.dlsite.com
 93.188.130.68 ssl.dlsite.com
 163.171.243.222 ssl.dlsite.com
 138.113.89.163 ssl.dlsite.com
@@ -45,17 +43,13 @@
 163.171.233.140 download.dlsite.com
 174.35.74.121 download.dlsite.com
 163.171.239.65 download.dlsite.com
-## play.dlsite.com
 54.178.105.202 play.dlsite.com
 13.112.94.94 play.dlsite.com
 13.114.205.226 play.dlsite.com
-## login.dlsite.com
 52.197.235.253 login.dlsite.com
 18.181.100.115 login.dlsite.com
-## ci-en.dlsite.com
 35.75.187.17 ci-en.dlsite.com
 54.64.83.213 ci-en.dlsite.com
-## download.sangfor.com.cn
 202.114.51.68 trial.dlsite.com
 202.114.51.68 img.dlsite.jp
 202.114.51.68 media.dlsite.com
@@ -63,12 +57,10 @@
 202.114.51.68 media.stg.ci-en.jp
 202.114.51.68 file.chobit.cc
 202.114.51.68 img.chobit.cc
-## j.sni.global.fastly.net
 146.75.114.132 ssl.dlsite.com
 146.75.114.132 www.dlsite.com
 146.75.114.132 www.nijiyome.com
 146.75.114.132 www.nijiyome.jp
 146.75.114.132 download.dlsite.com
 146.75.114.132 play.dl.dlsite.com
-# jingjiniao
 52.193.188.115 www.jingjiniao.info
